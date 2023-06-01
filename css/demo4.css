@@ -1,0 +1,13 @@
+
+
+
+body{margin:0;}
+
+/* Canvas positions */
+
+.scene {
+	position: absolute;
+	width: 100%;
+	height: 100vh;
+}
+
